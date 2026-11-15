@@ -1,0 +1,158 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.thegirlfromyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=en",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.lachicadeyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=es",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.dasmaedchenausyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=de",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "dasmaedchenausyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=de",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.ameninadeyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=pt",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.yumbonoshoujo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=ja",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.lafilledeyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=fr",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.laragazzadiyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=it",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.yumbonvhai.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=zh",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.yumbosonyeo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=ko",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.hetmeisjeuityumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=nl",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.pigenfrayumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=da",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.flickanfranyumbo.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=sv",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.tyttoyumbosta.com"
+        }
+      ],
+      "destination": "https://7december2002.com/?lang=fi",
+      "permanent": true
+    }
+  ]
+}
