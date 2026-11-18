@@ -154,5 +154,11 @@
       "destination": "https://7december2002.com/?lang=fi",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/cinematic.html"
+    }
   ]
 }
